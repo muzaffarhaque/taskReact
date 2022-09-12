@@ -97,7 +97,7 @@
 }
 .sprade {
     position: absolute;
-
+    z-index: 999;
     left: -5px;
     top: 20px;
     border-radius: 1px;
