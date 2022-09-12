@@ -90,7 +90,7 @@ function App() {
                                     : <i className="fa-solid fa-xmark"></i>
 }
                                 {(!bars)
-                                    ? <div className="sprade" style={{"z-index":9}>
+                                    ? <div className="sprade" style={{"z-index":9}}>
                                             <ul >
                                                 <li>Download Subtitle</li>
                                                 <li>Edit Text</li>
